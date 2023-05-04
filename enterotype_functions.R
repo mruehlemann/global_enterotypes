@@ -3,6 +3,7 @@ library(ggtree)
 library(compositions)
 library(umap)
 library(MASS)
+library(DirichletMultinomial)
 
 ### functions 
 
